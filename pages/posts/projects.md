@@ -9,4 +9,4 @@ author: You
 ![Photo](/images/visionpro.jpg)
 
 #### About
-Takes use of the football-data API, as well as the newly released VisionOS Xcode update in 2024.
+Takes use of the football-data API, as well as the newly released VisionOS Xcode update in 2024..
