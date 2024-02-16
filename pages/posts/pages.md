@@ -1,8 +1,8 @@
 ---
-title: Next.js Pages
+title: apple vision pro soccer stat tracker
 date: 2021/3/18
-description: Learn more about Next.js pages.
-tag: web development
+description: a small swiftui/vision os app
+tag: swiftui
 author: You
 ---
 
