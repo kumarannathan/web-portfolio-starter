@@ -1,0 +1,16 @@
+---
+title: Apple Vision Pro Soccer Stat Tracker
+date: 2024/30/1
+description: A SwiftUI based VisionOS App built via Xcode 15.3 beta 2
+tag: SwiftUI
+author: You
+---
+
+
+### Preview
+
+
+#### About
+Takes use of the football-data api, as well as the newly released visionOS xcode update in 2024. 
+
+
